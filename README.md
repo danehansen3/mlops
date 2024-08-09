@@ -1,2 +1,3 @@
 # mlops
-mlOps
+
+mlOps course by zoomcamp
